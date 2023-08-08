@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\dhana\OneDrive\Documents\phase1 end project2\Project2\Project2\obj\Debug\Project2.pdb
